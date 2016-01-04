@@ -1,0 +1,19 @@
+{
+  "name": "elasticsearch-visualizer",
+  "version": "0.0.1",
+  "authors": [
+    "Pandiyan <@pandiyan_rsp>"
+  ],
+  "description": "To visualize the various components and internal work process of elasticsearch",
+  "main": "index.html",
+  "keywords": [
+    "elasticsearch"
+  ],
+  "license": "Apache 2.0",
+  "private": true,
+  "dependencies": {
+    "elasticsearch": "~2.2.0",
+    "angular": "~1.2.19",
+    "bootstrap": "~3.2.0"
+  }
+}
