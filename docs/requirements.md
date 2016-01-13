@@ -1,9 +1,9 @@
 # Works planned
 
 ## Primary
-* index snapshot and restore process
 * re index the data (with custom changes)
 * index optimization process (segments Monitor)
+* index snapshot and restore process
 * analyzer and tokenizer workspace
 * scroll search - to retrieve large number of results
 * heap usage and garbage collection details
